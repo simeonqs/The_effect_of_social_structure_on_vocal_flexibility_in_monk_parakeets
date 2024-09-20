@@ -1,0 +1,98 @@
+---
+title: "Diversity models"
+output: pdf_document
+---
+
+# Age
+
+## Total
+
+$$\begin{aligned}
+\text{average variability} & \sim \text{normal}(\text{real variability},\ \sigma) \\
+\text{real variability}  & \sim \text{normal}(\mu,\ \text{sd variability}) \\
+\mu & = \alpha + \beta * \text{standardised age} \\
+\alpha & \sim \text{normal}(0,\ 0.5) \\
+\beta & \sim \text{normal}(0,\ 0.5) \\
+\sigma & \sim \text{exponential}(1)
+\end{aligned}$$
+
+## Direct
+
+$$\begin{aligned}
+\text{average variability} & \sim \text{normal}(\text{real variability},\ \sigma) \\
+\text{real variability}  & \sim \text{normal}(\mu,\ \text{sd variability}) \\
+\mu & = a_\text{sex}\ + \\
+  & \ \ \ \ \ \beta_\text{age} * \text{standardised age}\ + \\
+  & \ \ \ \ \ \beta_\text{entry size} * \text{standardised entry size}\ + \\
+  & \ \ \ \ \ \beta_\text{degree} * \text{standardised degree}   \\
+\alpha_\text{sex} & \sim \text{normal}(\bar{\alpha},\ \sigma_\text{sex}) \\
+\bar{\alpha} & \sim \text{normal}(0,\ 0.5) \\
+\beta_\text{age}, \beta_\text{entry size}, \beta_\text{degree} & \sim \text{normal}(0,\ 0.5) \\
+\sigma & \sim \text{exponential}(1) \\
+\sigma_\text{sex} & \sim \text{exponential}(2)
+\end{aligned}$$
+
+# Degree
+
+$$\begin{aligned}
+\text{average variability} & \sim \text{normal}(\text{real variability},\ \sigma) \\
+\text{real variability}  & \sim \text{normal}(\mu,\ \text{sd variability}) \\
+\mu & = a_\text{sex}\ + \\
+  & \ \ \ \ \ \beta_\text{degree} * \text{standardised degree}\ + \\
+  & \ \ \ \ \ \beta_\text{age} * \text{standardised age}\ + \\
+  & \ \ \ \ \ \beta_\text{entry size} * \text{standardised entry size}\ + \\
+  & \ \ \ \ \ \beta_\text{tree size} * \text{standardised tree size}   \\
+\alpha_\text{sex} & \sim \text{normal}(\bar{\alpha},\ \sigma_\text{sex}) \\
+\bar{\alpha} & \sim \text{normal}(0,\ 0.5) \\
+\beta_\text{degree}, \beta_\text{age}, \beta_\text{entry size}, \beta_\text{tree size} & 
+  \sim \text{normal}(0,\ 0.5) \\
+\sigma & \sim \text{exponential}(1) \\
+\sigma_\text{sex} & \sim \text{exponential}(2)
+\end{aligned}$$
+
+$$\begin{aligned}
+d_{k}  & \sim \text{normal}(\mu_{k},\ \sigma) \\
+\mu_{k} & = a_\text{sex[k]}\ + \\
+  & \ \ \ \ \ \beta_\text{degree} * \text{SD}_k\ + \\
+  & \ \ \ \ \ \beta_\text{age} * \text{SA}_k\ + \\
+  & \ \ \ \ \ \beta_\text{entry size} * \text{SE}_k\ + \\
+  & \ \ \ \ \ \beta_\text{tree size} * \text{ST}_k
+\end{aligned}$$
+
+# Entry size
+
+## Total
+
+$$\begin{aligned}
+\text{average variability} & \sim \text{normal}(\text{real variability},\ \sigma) \\
+\text{real variability}  & \sim \text{normal}(\mu,\ \text{sd variability}) \\
+\mu & = a_\text{sex}\ + \\
+  & \ \ \ \ \ \beta_\text{entry size} * \text{standardised entry size}\ + \\
+  & \ \ \ \ \ \beta_\text{age} * \text{standardised age}\\
+\alpha_\text{sex} & \sim \text{normal}(\bar{\alpha},\ \sigma_\text{sex}) \\
+\bar{\alpha} & \sim \text{normal}(0,\ 0.5) \\
+\beta_\text{entry size}, \beta_\text{age} & \sim \text{normal}(0,\ 0.5) \\
+\sigma & \sim \text{exponential}(1) \\
+\sigma_\text{sex} & \sim \text{exponential}(2)
+\end{aligned}$$
+
+## Direct
+
+$$\begin{aligned}
+\text{average variability} & \sim \text{normal}(\text{real variability},\ \sigma) \\
+\text{real variability}  & \sim \text{normal}(\mu,\ \text{sd variability}) \\
+\mu & = a_\text{sex}\ + \\
+  & \ \ \ \ \ \beta_\text{entry size} * \text{standardised entry size}\ + \\
+  & \ \ \ \ \ \beta_\text{age} * \text{standardised age}\ + \\
+  & \ \ \ \ \ \beta_\text{tree size} * \text{standardised tree size}   \\
+\alpha_\text{sex} & \sim \text{normal}(\bar{\alpha},\ \sigma_\text{sex}) \\
+\bar{\alpha} & \sim \text{normal}(0,\ 0.5) \\
+\beta_\text{entry size}, \beta_\text{age}, \beta_\text{tree size} & \sim \text{normal}(0,\ 0.5) \\
+\sigma & \sim \text{exponential}(1) \\
+\sigma_\text{sex} & \sim \text{exponential}(2)
+\end{aligned}$$
+
+
+
+
+

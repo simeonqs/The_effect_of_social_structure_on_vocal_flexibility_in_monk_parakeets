@@ -1,0 +1,47 @@
+---
+title: "Untitled"
+output: pdf_document
+---
+
+## total age
+
+$$\begin{aligned}
+\text{number peaks} & \sim \text{poisson}(\lambda) \\
+\log{\lambda} & = \alpha_\text{individual} + \beta * \text{standardised age} \\
+\alpha_\text{individual} & \sim \text{normal}(\bar{\alpha},\ \sigma_\text{individual}) \\
+\bar{\alpha} & \sim \text{normal}(1.5,\ 0.5) \\
+\beta & \sim \text{normal}(0,\ 1) \\
+\sigma_\text{individual} & \sim \text{exponential}(1)
+\end{aligned}$$
+
+## direct age
+
+$$\begin{aligned}
+\text{number peaks} & \sim \text{poisson}(\lambda) \\
+\log{\lambda} & = \alpha_\text{individual}\ + \\
+  & \ \ \ \ \ \beta_\text{age} * \text{standardised age}\ + \\
+  & \ \ \ \ \ \beta_\text{degree} * \text{standardised degree}\ + \\
+  & \ \ \ \ \ \beta_\text{tree} * \text{standardised tree size}\\
+\alpha_\text{individual} & \sim \text{normal}(\bar{\alpha},\ \sigma_\text{individual}) \\
+\bar{\alpha} & \sim \text{normal}(1.5,\ 0.5) \\
+\beta_\text{age}, \beta_\text{degree}, \beta_\text{tree} & \sim \text{normal}(0,\ 1) \\
+\sigma_\text{individual} & \sim \text{exponential}(1)
+\end{aligned}$$
+
+## total tree
+
+$$\begin{aligned}
+\text{number peaks} & \sim \text{poisson}(\lambda) \\
+\log{\lambda} & = \alpha_\text{individual}\ + \\
+  & \ \ \ \ \ \alpha_\text{sex}\
+  & \ \ \ \ \ \beta_\text{age} * \text{standardised age}\ + \\
+  & \ \ \ \ \ \beta_\text{entry} * \text{standardised entry size}\ + \\
+  & \ \ \ \ \ \beta_\text{tree} * \text{standardised tree size}\\
+\alpha_\text{individual} & \sim \text{normal}(\bar{\alpha},\ \sigma_\text{individual}) \\
+\alpha_\text{sex} & \sim \text{normal}(0,\ \sigma_\text{sex}) \\
+\bar{\alpha} & \sim \text{normal}(1.5,\ 0.5) \\
+\beta_\text{age}, \beta_\text{degree}, \beta_\text{tree}, \beta_\text{entry} & \sim \text{normal}(0,\ 1) \\
+\sigma_\text{individual}, \sigma_\text{sex} & \sim \text{exponential}(1)
+\end{aligned}$$
+
+## direct tree

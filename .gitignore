@@ -1,0 +1,99 @@
+*.Rproj.user
+*.Rhistory
+*.Ruserdata
+*.DS_Store
+*.pdf
+ANALYSIS/CODE/ARCHIVE/*
+ANALYSIS/CODE/01 audio analysis/m_var
+ANALYSIS/CODE/01 audio analysis/m_sim
+ANALYSIS/CODE/01 audio analysis/m_div
+ANALYSIS/CODE/01 audio analysis/m_div_context
+ANALYSIS/CODE/01 audio analysis/m_sim_mate
+ANALYSIS/CODE/01 audio analysis/model structure.Rmd
+ANALYSIS/CODE/02 social analysis/m_group_size
+ANALYSIS/CODE/03 similarity analysis/m_clust_total
+ANALYSIS/CODE/03 similarity analysis/m_foraging_total
+ANALYSIS/CODE/03 similarity analysis/m_location_direct
+ANALYSIS/CODE/03 similarity analysis/m_location_total
+ANALYSIS/CODE/03 similarity analysis/m_mate_total
+ANALYSIS/CODE/03 similarity analysis/m_sim_01
+ANALYSIS/CODE/03 similarity analysis/m_sim_02
+ANALYSIS/CODE/03 similarity analysis/m_sim_03
+ANALYSIS/CODE/03 similarity analysis/m_sim_04
+ANALYSIS/CODE/03 similarity analysis/m_sim_05
+ANALYSIS/CODE/03 similarity analysis/m_sim_06
+ANALYSIS/CODE/03 similarity analysis/m_spat_total
+ANALYSIS/CODE/03 similarity analysis/m_aggressive
+ANALYSIS/CODE/03 similarity analysis/m_foraging_direct
+ANALYSIS/CODE/03 similarity analysis/m_gen_direct
+ANALYSIS/CODE/03 similarity analysis/m_gen_total
+ANALYSIS/CODE/04 diversity analysis/m_group_un
+ANALYSIS/CODE/04 diversity analysis/m_degree_imp
+ANALYSIS/CODE/04 diversity analysis/m_age_un
+ANALYSIS/CODE/04 diversity analysis/m_sex_age_nest_group_degree
+ANALYSIS/CODE/04 diversity analysis/m_sex_age_nest_group_degree_imp
+ANALYSIS/CODE/04 diversity analysis/m_total_sex
+ANALYSIS/CODE/04 diversity analysis/m_direct_effect_age
+ANALYSIS/CODE/04 diversity analysis/m_direct_effect_entry
+ANALYSIS/CODE/04 diversity analysis/m_total_effect_entry
+ANALYSIS/CODE/04 diversity analysis/m_degree
+ANALYSIS/CODE/04 diversity analysis/m_direct_tree_type
+ANALYSIS/CODE/04 diversity analysis/m_total_tree_type
+ANALYSIS/CODE/04 diversity analysis/m_div_network_position
+ANALYSIS/CODE/05 repertoire analysis/m_simple_total
+ANALYSIS/CODE/05 repertoire analysis/m_direct_tree_size
+ANALYSIS/CODE/05 repertoire analysis/m_full_group_size
+ANALYSIS/CODE/05 repertoire analysis/m_full_tree_size
+ANALYSIS/CODE/05 repertoire analysis/m_full_tree_size_effort
+ANALYSIS/CODE/05 repertoire analysis/m_full_tree_size_effort_no_type
+ANALYSIS/CODE/05 repertoire analysis/m_total_age
+ANALYSIS/CODE/05 repertoire analysis/m_total_direct_entry_size
+ANALYSIS/CODE/05 repertoire analysis/m_total_sex
+ANALYSIS/CODE/05 repertoire analysis/m_total_tree_size
+ANALYSIS/CODE/05 repertoire analysis/m_rep_age_direct
+ANALYSIS/CODE/05 repertoire analysis/m_rep_age_total
+ANALYSIS/CODE/05 repertoire analysis/m_rep_degree
+ANALYSIS/CODE/05 repertoire analysis/m_rep_entry_direct
+ANALYSIS/CODE/05 repertoire analysis/m_rep_entry_total
+ANALYSIS/CODE/05 repertoire analysis/m_rep_sex_total
+ANALYSIS/CODE/05 repertoire analysis/m_rep_dist_sim
+ANALYSIS/CODE/05 repertoire analysis/m_rep_ent_age_direct
+ANALYSIS/CODE/05 repertoire analysis/m_rep_ent_age_total
+ANALYSIS/CODE/05 repertoire analysis/m_rep_ent_entry_total
+ANALYSIS/CODE/05 repertoire analysis/m_rep_ent_sex_total
+ANALYSIS/CODE/05 repertoire analysis/m_rep_dist_sim_02
+ANALYSIS/CODE/05 repertoire analysis/distribution analysis/m_n_call_sex
+ANALYSIS/CODE/05 repertoire analysis/distribution analysis/m_n_rec_sex
+ANALYSIS/CODE/05 repertoire analysis/distribution analysis/m_rep_dist_sim_03
+ANALYSIS/CODE/05 repertoire analysis/distribution analysis/m_rep_dist_sim_04
+ANALYSIS/CODE/05 repertoire analysis/distribution analysis/m_rep_dist_sim_05
+ANALYSIS/CODE/05 repertoire analysis/distribution analysis/m_age_total
+ANALYSIS/CODE/05 repertoire analysis/distribution analysis/m_fix_softmax
+ANALYSIS/CODE/05 repertoire analysis/distribution analysis/m_rep_dist_sim_06
+ANALYSIS/CODE/05 repertoire analysis/distribution analysis/m_size
+ANALYSIS/CODE/05 repertoire analysis/distribution analysis/m_sex
+ANALYSIS/CODE/05 repertoire analysis/distribution analysis/m_sex_size
+ANALYSIS/CODE/05 repertoire analysis/distribution analysis/m_age_simple
+ANALYSIS/CODE/05 repertoire analysis/distribution analysis/m_age_direct
+ANALYSIS/CODE/05 repertoire analysis/distribution analysis/m_entry_total
+ANALYSIS/CODE/05 repertoire analysis/distribution analysis/m_sex_total
+ANALYSIS/CODE/06 information content/m_info_degree
+ANALYSIS/CODE/06 information content/m_info_tree_total
+ANALYSIS/CODE/06 information content/m_info_age_total
+ANALYSIS/DATA/age/*
+ANALYSIS/DATA/microsat/DawsonPell_2021_C_Genotypes_spatial_autocorrelation_analyses.xlsx
+ANALYSIS/DATA/sex/data Francisca.csv
+ANALYSIS/RESULTS/01 audio analysis/model_result_div.RData
+ANALYSIS/RESULTS/01 audio analysis/similarity_post.RData
+ANALYSIS/RESULTS/01 audio analysis/waves.RData
+ANALYSIS/RESULTS/03 similarity analysis/sim_*
+ANALYSIS/RESULTS/04 diversity analysis/sample sizes 2020.txt
+ANALYSIS/RESULTS/04 diversity analysis/sample sizes 2021.txt
+ANALYSIS/RESULTS/05 repertoire analysis/distribution analysis/model_results.RData
+ANALYSIS/RESULTS/repertoires/*
+ANALYSIS/RESULTS/contact call sorting 20 - done/*
+ANALYSIS/RESULTS/contact call sorting 21 - done/*
+ANALYSIS/RESULTS/DAG.png
+ANALYSIS/RESULTS/DAG.svg
+DOCUMENTS
+

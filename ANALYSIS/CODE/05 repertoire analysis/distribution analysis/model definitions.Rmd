@@ -1,0 +1,36 @@
+---
+title: "Diversity models"
+output: pdf_document
+---
+
+
+$$
+\begin{aligned}
+    \overset{\rightarrow}{x}_i &= \begin{bmatrix}
+           x_{contact} \\
+           x_{alarm} \\
+           \vdots \\
+           x_{growl}
+         \end{bmatrix}
+  \end{aligned}
+$$
+
+$$\begin{aligned}
+\overset{\rightarrow} x_i  & \sim \text{multinomial}(\overset{\rightarrow} p_i) \\
+\overset{\rightarrow} p_i & \sim \text{dirichlet}(\overset{\rightarrow}\pi_i \theta) \\
+\overset{\rightarrow}\pi_i & = \frac{\overset{\rightarrow} s_i}{\sum s_i} \\
+\overset{\rightarrow} s_i & = \exp[\log(\overset{\rightarrow}\alpha) + \overset{\rightarrow}\beta * A_i]\\
+\theta & \sim \text{exponential}(0.2)\\
+\overset{\rightarrow}\alpha & \sim \text{dirichlet}(5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5)\\
+\overset{\rightarrow}\beta & \sim \text{normal}(0, 0.5)
+\end{aligned}$$
+
+
+# Entropy
+
+$$\begin{aligned}
+-\sum_{i = 1}^{N}p(x_i)*\text{log}[(p(x_i)]
+\end{aligned}$$
+
+
+

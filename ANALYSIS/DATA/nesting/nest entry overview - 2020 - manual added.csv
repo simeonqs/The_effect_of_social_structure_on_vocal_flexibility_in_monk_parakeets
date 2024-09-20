@@ -1,0 +1,256 @@
+tree;nest;entry;birds;birds_observed_in_nest;birds_observed_at_nest
+1;A;1;K26, un;K26, un, un, un, un, un, un, un, un, un, un, un, un, un, un;un, T30, un, un
+1;A;2;T93, S53, un;T93, S53, un;
+1;A;3;;NA;NA
+2;A;1;;un, un;un, M68
+2;A;2;;NA;NA
+2;A;3;J89, un;J89, un, J89, J99, un, un, I89, un, un, J89, un, J89;un
+2;A;4;;;collar
+2;A;5;N09, un, stump;N09, stump, un, collar, collar, un, un, collar, un, un;un, un, un
+2;A;6;;MXX;un
+2;A;7;un, T30;un, un, T30, un, un, un;N09
+2;A;8;;un, stump;J89, un, N09
+2;A;9;;N_;un
+3;A;1;;un;
+3;A;2;;unknown, un, un, un;un
+3;A;3;;un, un;un
+3;A;4;;un;
+4;A;1;;;un
+4;A;2;un, un, E36;un + un, E36, un, un, un, E36, E36, un, un;E36, un
+4;A;3;;E36, un;X
+4;A;4;;T90, T63;un + un + un
+4;A;5;;E36;
+5;A;1;;un, un, un;
+5;A;2;;un, un;
+5;A;3;;;un
+5;A;4;;NA;NA
+5;A;5;;un, un, un, un, un;
+5;A;6;T90, T63;T63, un, un, T90, T63, T90, T63, T90, T63, X, X6X, T90;T90, T90, T63
+5;A;7;;;T63
+6;A;1;;un, un, un, un;un
+7;A;1;J46, J13;J46, J13, J13, J46, J46, J13, J46, J46, J13;J46
+7;A;2;;;J46
+7;A;3;;NA;NA
+7;A;4;;J46, J13;J13, J13
+7;A;5;;;J33
+7;A;6;;J13, J46, J13;
+8;A;1;;NA;NA
+8;A;2;;un, un;un
+8;A;3;;;un, un
+8;A;4;;un, un, un, un;un
+9;A;1;;RX8;R18, R18, R18
+9;A;2;R18, T71;R18, R16/8, T71, T71, J71, T71, T71, R18, R18, R18, T71, R18, T71;T71, R18, T71, T71, T71
+9;A;3;;T71;R18, un
+9;A;4;;R18;T71, R18
+10;A;1;K41, un;K41, un, un, un, un;un, K41, un, un
+10;A;2;;un;
+10;A;3;;T71, un;K41, K41, K41, X, K41, K41
+10;A;4;;NA;NA
+10;A;5;;;K41
+10;A;6;;un;
+11;A;1;I49, un;I49, un, I49, unknown, unknown, I49, unknown, S56;
+11;A;2;;;I49
+12;A;1;;un, T24, T24;T24, un
+12;A;2;;;un
+12;A;3;T24, un, un;T24, un + un;
+12;A;4;;D86;
+13;A;1;S07, R20;X, S07, R20, R20, RX0, R20;R20, S07, R20, T96, un, S07, R20
+13;A;2;T96;T96, S07, R20, R20;T96, R20
+13;A;3;N23, D86;N23, D86, D86, N23, D86, N23, D86, D86, N23, D86;N22
+14;A;1;K80, un;un, K80, un, K80, un, E01, KXX, un, un;
+14;A;2;L35, M38;L35, M38, L35, MXX, X35, M38, L35, M38, L35, M38, LXX, L35, M38, L35, M38, L35;L35
+14;A;3;;un;
+14;A;4;E01, un;E01, un, un;un
+15;A;1;K70, U20;K70, U20, U20, K70, U20, K70, unknown, K70;U20, K70, K70, K70
+16;A;1;;K80, un, X, un;K80
+17;A;1;;NA;NA
+18;A;1;;J43, UK, un, T81, un, T81;
+18;A;2;;J43, un, un;
+18;A;3;;NA;NA
+18;A;4;J43, un;J43;J43
+19;A;1;un, T81;T81, un, T81, T81, un, T81, T81, T81, un, T81, un;un
+19;A;2;;NA;NA
+20;A;1;R87, un;R87, R87, R87, un, R87, un, R87, un, R87;un, R87
+21;A;1;J14, un;un, J14, X, X, un, X, TXX, J14;T40, JX4, un
+21;A;2;;TX3, un, X, un, i14;un, X
+21;A;3;;T4X, un, un;
+21;A;4;;NA;NA
+22;A;1;;un + un;
+22;A;2;;NA;NA
+22;A;3;;un, un, un, un, un, un, un, un, un, un, un, un, un, un;un, un
+23;A;1;;NA;NA
+24;A;1;L14, N74, S26, R86;L14, N74, L14, S26, R86, L14;N77, N74, un
+24;B;1;S37, un, I87, S40;S37, un, un, I87, un, S40, X;I87, I87, un, un
+24;C;1;E59, G32;E59, G32, E59, E59, G32, E59, G32, G32, un, H51, H51, un, H51, un;E59, G32, G32, E59, E59
+24;C;2;;G32, E59;
+24;D;1;H51, S45, S46;H51, un, S45, S46, H51;H51
+24;E;1;P69, S57, S17;P96, P69, P69, S57, P69, P69, S17, S57, P69, S57, P69, S57, S57, P68, S57, S17, P69, S17;S17, S17, P69, P69, P69, P69, S17, P69, un
+24;F;1;un, L22;un, un, un, L22, un, L22, un, L22, L22, un;un, L22, L22, L22, un, L22, un, L22, un, L22, un
+24;G;1;stump, G74;collar, X, unknown, collar, S4X, un, G74, G74, X, X, G74, G74, collar, collar, G74, X;G74
+25;A;1;;;J03, I94
+25;A;2;J03, I84;J03, I84, J03;S09
+25;B;1;;K76, un, K76, un, un;T94, K76
+25;B;2;K76, un;K76, K76, un, un, K76, un, un, T94, K76, un, K76, un;un, K76, K76
+25;C;1;K33, J02;K33, J02, I02, K33, J02, K33, J02, K33, K33, K33, K33;I82, K33, J02, J02
+25;C;2;;K76;
+25;D;1;;NA;NA
+25;E;1;T73, G73;T73, G73;
+25;E;2;;NA;NA
+25;F;1;;NA;NA
+25;G;1;un, L09;X, unknown, unknown, X, X, X, X, X09, L09, LX9;
+25;H;1;;NA;NA
+26;A;1;;un, un, TX8, un, un, X, X, X;T-76, un
+26;B;1;;NA;NA
+27;A;1;un, I00, J24, S25;un, J24, I00, S25, un, I00, S25, S2X, J24, un, I00, un;I00
+28;A;1;;NA;NA
+28;B;1;K47, un;un, K47;
+28;C;1;;un, I73, I73;
+28;C;2;I73, stump, un, un;stump, I73, stump, I73, I73, collar;
+28;C;3;;I73, stump, un + un;
+28;D;1;;NA;NA
+28;E;1;;;P76, S32
+28;E;2;P76, S22;P76, S22;
+28;F;1;;un;J71, JXX
+28;H;2;;;P76, un
+29;A;1;L80, C54;L80, C54, L80, C54, C54, C54, L80;L80, C54, L80, C54
+29;B;1;un, un, I04;un + un, I04, un, un, I04;I04, un, I04
+29;B;2;;;un
+29;B;3;;NA;NA
+29;C;1;;;P58
+29;D;1;;un, collar, un;
+29;E;1;;X76, X;
+29;F;1;;NA;NA
+29;G;1;;;P67
+29;H;1;;NA;NA
+29;H;2;;NA;NA
+30;A;1;S49, K48;S49, S49, R83, S49, K48, K48, S49, KX8, KXX, unknown, S4X, S49;K48, S48, X
+30;B;1;;;X
+30;C;1;;NA;NA
+31;A;1;stump, H40, un;stump, H40, H40, un, X, collar, S19, H40, collar, H40, H4X, unknown;H40
+31;B;1;;X, un;
+32;A;1;;I65, un + X, un, IXX, X, un, un, E45, X;E45
+32;A;1;I65, un;I65, E45, E45, u.I49;
+32;A;2;;PXX;
+32;A;3;E45, T03;E45, T03;HXX, I80
+32;B;1;H38;;X, X
+32;C;1;I06, H43;I06, X, X, H43;X, un, I0X
+32;D;1;I80, T80;TXX, I80, T80, I80, I80, T0X;T51, PX1
+32;D;2;;;PX1, un
+32;D;3;;NA;NA
+32;D;4;;NA;NA
+33;A;1;K52, P75;K52, K52, K52, K52, X, X, P75;P75, P75
+33;B;1;;;E88
+33;C;1;;NA;NA
+33;D;1;;NA;NA
+33;D;3;;PX1;
+33;E;1;;E88;
+33;E;2;;NA;NA
+34;A;1;;un, un, un, un, un, un, un, un, un, un;
+34;A;2;;un;
+35;A;1;;NA;NA
+35;B;1;un, T44;un, un, un, un, T44;T44
+36;A;1;;KXX;
+36;A;2;;NA;NA
+36;B;1;;un, un, un, un;
+36;C;1;;un;
+36;D;1;T21, S28;T21, X, X, S28;SX7, un, S47, S28, X, un, un
+36;E;1;;NA;NA
+36;F;1;un, K87;un, K87, un, K87;KXX
+36;G;1;;NA;NA
+37;A;1;;D39;
+37;A;2;un, J78;un, J78, un, un;D39, E23, D39, X
+37;A;3;D39, E23;D39, E23, D39;
+37;A;4;;un, un;
+37;B;1;J21, un;D39, J21, un, D39, un;J21, X39, E23, X, unknown
+37;C;1;E41, un;E41, un;un
+38;A;1;E87, un;E87, un, un, un, un;E89
+39;A;1;S19, S01, un;S19, un, S01, un, un;
+40;A;1;;NA;NA
+41;A;1;;S34, S34;
+41;A;2;S34, R83;R83, S34, R8/63, S34, S34, R83, S34, S34, S34;unknown
+41;A;3;;NA;NA
+41;A;4;;NA;NA
+42;A;1;;NA;NA
+43;A;1;;X;
+44;A;1;;NA;NA
+44;B;1;;NA;NA
+44;C;1;;NA;NA
+44;D;1;;NA;NA
+45;A;1;;X;
+45;B;1;;NA;NA
+45;C;1;;NA;NA
+45;D;1;;NA;NA
+45;E;1;;NA;NA
+45;F;1;;NA;NA
+45;G;1;;NA;NA
+46;A;1;;NA;NA
+46;B;1;;NA;NA
+46;C;1;;NA;NA
+46;D;1;L23, un;L23, un, L23;
+46;D;2;;un, L23;un
+46;E;1;;NA;NA
+46;F;1;;NA;NA
+46;G;1;;NA;NA
+46;H;1;;NA;NA
+46;I;1;;NA;NA
+46;J;1;;un;
+47;A;1;;un;
+48;A;1;;unknown;un
+49;A;1;;un, un;
+50;A;1;;NA;NA
+51;A;1;;NA;NA
+52;A;1;;un;
+53;A;1;;NA;NA
+54;A;1;;un, un;
+54;A;2;;un, un;
+55;A;1;K96, un;K96, un, un;S15
+55;A;2;;un;
+55;A;3;S15;S15;
+55;A;4;;un;
+55;A;5;;un;
+55;A;6;;NA;NA
+55;A;7;;un, un;
+55;A;8;;NA;NA
+56;A;1;;;X88
+57;A;1;;NA;NA
+57;B;1;;NA;NA
+57;C;1;;NA;NA
+57;D;1;;NA;NA
+57;E;1;;NA;NA
+57;F;1;;NA;NA
+57;G;1;;NA;NA
+58;A;1;;un;un
+58;A;2;;NA;NA
+59;A;1;;NA;NA
+59;B;1;;un, X;
+60;A;1;;NA;NA
+61;A;1;;NA;NA
+61;A;2;;NA;NA
+62;A;1;;un, un, un;
+63;A;1;;NA;NA
+64;A;1;;X;un
+65;A;1;;NA;NA
+65;B;1;;NA;NA
+66;A;1;T88;T88, X;
+67;A;1;;NA;NA
+68;A;1;;NA;NA
+69;A;1;;NA;NA
+70;A;1;;un;
+71;A;1;K49;K49, K49, K49;un
+72;A;1;;NA;NA
+73;A;1;;NA;NA
+74;A;1;;NA;NA
+75;A;1;;un + un, unknown;S21, S43
+76;A;1;;X;
+77;A;1;;NA;NA
+77;B;1;;un;
+78;A;1;P68, K64;P68, K64;
+79;A;1;;NA;NA
+80;A;1;;un, un;
+81;A;1;;J56;
+81;A;2;P12, J56;P12, P12, J56, J56;
+82;A;1;;NA;NA
+82;A;2;;NA;NA
+83;A;1;;un, un, un, un, un, un;
+83;A;2;;NA;NA
+84;A;1;T74, T72;T74, T72, T74, T74, T72, T72;
