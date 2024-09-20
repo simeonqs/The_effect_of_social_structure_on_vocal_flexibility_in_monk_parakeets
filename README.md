@@ -1,4 +1,4 @@
-# README The effect of social structure on vocal flexibility in monk parakeets
+# The effect of social structure on vocal flexibility in monk parakeets
 
 The R code and data needed to replicate results from the article:
 
