@@ -3,9 +3,7 @@
 The R code and data needed to replicate results from the article:
 
 ```
-The effect of social structure on vocal flexibility in monk parakeets
-Simeon Q Smeele, Juan Carlos Senar, Mary Brooke McElreath, Lucy M Aplin
-bioRxiv 2024.09.20.614070; doi: https://doi.org/10.1101/2024.09.20.614070
+Smeele SQ, Senar JC,McElreath MB, Aplin LM. 2025 The effect of social structure on vocal flexibility in monk parakeets. R. Soc. Open Sci. 12: 241717. https://doi.org/10.1098/rsos.241717
 ```
 
 ------------------------------------------------
