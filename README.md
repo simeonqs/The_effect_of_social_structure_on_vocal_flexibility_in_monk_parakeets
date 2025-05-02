@@ -28,7 +28,7 @@ Required packages are installed and loaded in each script. However, some need ma
 
 **Reproducing all results:**
 
-To reproduce all results run all folders in the `CODE` folder and the scripts inside in order. Large files have to be downloaded from **ZENODO** since they cannot be store on GitHub. Most paths will be sourced from the `paths.R` script. These do not need to be updated as long as scripts are run with the project folder as working directory. The working directory is set correctly if you open the project file and open script from within the project. 
+To reproduce all results run all folders in the `CODE` folder and the scripts inside in order. Large files have to be downloaded from ZENODO (https://doi.org/10.5281/zenodo.13906800) since they cannot be store on GitHub. Most paths will be sourced from the `paths.R` script. These do not need to be updated as long as scripts are run with the project folder as working directory. The working directory is set correctly if you open the project file and open script from within the project. 
 
 ------------------------------------------------
 
